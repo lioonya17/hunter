@@ -115,7 +115,7 @@ button {
 
 .image-hero {
   position: absolute;
-  background: url(/img/hero.jpeg);
+  background: url(img/hero.jpeg);
   background-size: contain;
   background-position: right;
   background-repeat: no-repeat;
@@ -219,7 +219,7 @@ button {
 
 .list-hero__el::before {
   content: "";
-  background-image: url(done.png);
+  background-image: url(img/done.png);
   background-repeat: no-repeat;
   z-index: 1;
   width: 39px;
@@ -294,7 +294,7 @@ button {
 
 .list-info__el::before {
   content: "";
-  background-image: url(list.png);
+  background-image: url(img/list.png);
   background-repeat: no-repeat;
   z-index: 1;
   width: 58px;
@@ -429,7 +429,7 @@ input[type="checkbox"] {
   right: 0;
   width: 100%;
   height: 100%;
-  background: url(background.jpeg);
+  background: url(img/background.jpeg);
   background-repeat: no-repeat;
   background-position: right;
   background-size: contain;
